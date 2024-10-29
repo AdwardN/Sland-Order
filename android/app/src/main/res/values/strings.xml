@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sland</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">X23K_YmjNAipgRym1djCoSh-jK3oQGuMFk4Kb</string>
+
+</resources>
